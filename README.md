@@ -21,13 +21,6 @@ Seja bem-vindo ao meu perfil do GitHub! Este espaço está sendo preparado para 
 
 ---
 
-## 📈 Estatísticas do GitHub
-Aqui você poderá acompanhar meu progresso conforme eu for subindo meus primeiros códigos:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
-
----
-
 ## 📫 Como me encontrar
 * **E-mail:** heitorbraumgiatti2009@gmail.com
 
